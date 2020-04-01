@@ -1,9 +1,4 @@
-/*Priya Pradeep
-35A ONLINE	
-Assignment Number 1	
-October 5
-10/19/18
-*/
+
 
 public class CoinTest {
 	public static void main(String[] args) {
